@@ -1,5 +1,5 @@
 
-<img style="width: 500px;" src="https://64.media.tumblr.com/d36b06985b06572eeebcb4f9aa8a6a20/tumblr_n5y01dklrQ1rjledmo1_500.gifv" />
+<img style="width: 400px;" src="https://media3.giphy.com/media/3og0INSAmR6cH4cbug/giphy.gif?cid=ecf05e47twvvp4ka7ssip2rnw6o5wnbhqxi1l4yjijyyrqvb&rid=giphy.gif&ct=g" />
 ### Hi there 👋
 
 
