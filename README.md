@@ -1,5 +1,5 @@
 
-<img style="width: 234px;" src="https://64.media.tumblr.com/d36b06985b06572eeebcb4f9aa8a6a20/tumblr_n5y01dklrQ1rjledmo1_500.gifv" />
+<img style="width: 500px;" src="https://64.media.tumblr.com/d36b06985b06572eeebcb4f9aa8a6a20/tumblr_n5y01dklrQ1rjledmo1_500.gifv" />
 ### Hi there 👋
 
 
