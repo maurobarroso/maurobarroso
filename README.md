@@ -2,11 +2,11 @@
 
 
 - ⚡ Frontend Skills:
-- React, Javascript ES6, Typescript, JWT, Hooks, StyledJSX, React Router, Fetch Api, Axios
-- HTML, CSS3, SASS, SCSS, FLEXBOX, GRID (vanilla preferentemente)
+  - React, Javascript ES6, Typescript, JWT, Hooks, StyledJSX, React Router, Fetch Api, Axios
+  - HTML, CSS3, SASS, SCSS, FLEXBOX, GRID (vanilla preferentemente)
 
 - ⚡ Backend Skills:
-- NodeJS, expressJS, Axios, MVC arquitecture, MongoDB, authorization & authentication, http protocol, restApi, ORMs, JWT, JSON, BaaS (firebase)... and more..
+  - NodeJS, expressJS, Axios, MVC arquitecture, MongoDB, authorization & authentication, http protocol, restApi, ORMs, JWT, JSON, BaaS (firebase)... and more..
 
 - ⚡ DevOps Skills :
-- GIT, AWS, DigitalOcean, Linux, Nginx, apache, DNS redirects(cloudflare).
+  - GIT, AWS, DigitalOcean, Linux, Nginx, apache, DNS redirects(cloudflare).
