@@ -11,4 +11,4 @@
   - NodeJS, expressJS, Axios, MVC arquitecture, MongoDB, authorization & authentication, http protocol, restApi, ORMs, JWT, JSON, BaaS (firebase)... and more..
 
 - ⚡ DevOps Skills :
-  - GIT, AWS, DigitalOcean, Linux, Nginx, apache, DNS redirects(cloudflare).
+  - GIT, AWS, DigitalOcean, Linux, Nginx, Docker, apache, DNS redirects(cloudflare).
